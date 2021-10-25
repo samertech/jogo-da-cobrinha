@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Gluten, Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    text-transform: uppercase;
+}
+
